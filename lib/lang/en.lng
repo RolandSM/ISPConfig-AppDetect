@@ -1,0 +1,6 @@
+<?php
+$wb['View sites'] = 'View Site';
+$wb['Sites'] = 'Websites';
+$wb['About AppDetect'] = 'About AppDetect';
+$wb['Version'] = 'Version';
+?>

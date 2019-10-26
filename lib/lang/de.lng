@@ -1,0 +1,6 @@
+<?php
+$wb['View sites'] = 'Seiten ansehen';
+$wb['Sites'] = 'Webseiten';
+$wb['About AppDetect'] = 'Über AppDetect';
+$wb['Version'] = 'Version';
+?>

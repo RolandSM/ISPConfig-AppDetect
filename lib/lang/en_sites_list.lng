@@ -1,0 +1,7 @@
+<?php
+$wb['list_head_txt'] = 'Installed Applications';
+$wb['site_txt'] = 'Website';
+$wb['detected_app_txt'] = 'Detected Application';
+$wb['detected_version_txt'] = 'Detected Version';
+$wb['available_version_txt'] = 'Available Version';
+?>
