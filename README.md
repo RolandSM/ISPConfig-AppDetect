@@ -5,3 +5,11 @@ Installation:
 2. for the AppDetect menu icon, you have to add the .icon-appdetect from the fonts.css & fonts.min.css into your already existing stylesheets
 
 Click as Administrator in your ISPConfig to the new AppDetect Menü Button.
+
+Checks included on 24.02.2020:
+- Joomla
+- Wordpress
+- Shopware
+
+For more details see:
+https://forum.howtoforge.de/threads/appdetect-ispconfig-modul.11617/
